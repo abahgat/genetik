@@ -1,0 +1,84 @@
+../obj/example/GeneticAlgorithm.o: GeneticAlgorithm.cpp \
+  ../include/libGenetiK.h ../include/../src/genetik.h \
+  ../include/../src/EvolutionaryAlgorithm.h \
+  ../include/../src/RouletteWheel.h ../include/../src/SelectionMethod.h \
+  ../include/../src/util/IllegalStateException.h \
+  ../include/../src/util/Exception.h \
+  ../include/../src/IndividualFactory.h ../include/../src/StopCriterion.h \
+  ../include/../src/Individual.h \
+  ../include/../src/StopCriterionMaxIteration.h \
+  ../include/../src/Population.h ../include/../src/TournamentSelection.h \
+  ../include/../src/RankingSelection.h ../include/../src/util/util.h \
+  ../include/../src/util/Variant.h ../include/../src/util/Random.h \
+  ../include/../src/util/Log.h \
+  ../include/../src/util/IllegalStateException.h \
+  ../include/../src/ga/ga.h ../include/../src/ga/IndividualFactory.h \
+  ../include/../src/ga/../IndividualFactory.h \
+  ../include/../src/ga/Individual.h ../include/../src/ga/../Individual.h \
+  ../include/../src/gp/gp.h ../include/../src/gp/IndividualFactory.h \
+  ../include/../src/gp/../IndividualFactory.h \
+  ../include/../src/gp/Individual.h ../include/../src/gp/../Individual.h \
+  ../include/../src/gp/Gene.h ../include/../src/gp/../util/Variant.h \
+  ../include/../src/gp/st/st.h \
+  ../include/../src/gp/st/IndividualFactory.h \
+  ../include/../src/gp/st/../IndividualFactory.h \
+  ../include/../src/gp/st/Individual.h \
+  ../include/../src/gp/st/../Individual.h ../include/../src/gp/st/Gene.h \
+  ../include/../src/gp/st/../Gene.h GeneticAlgorithm.h
+../obj/example/GeneticProgramming.o: GeneticProgramming.cpp \
+  GeneticProgramming.h ../include/libGenetiK.h \
+  ../include/../src/genetik.h ../include/../src/EvolutionaryAlgorithm.h \
+  ../include/../src/RouletteWheel.h ../include/../src/SelectionMethod.h \
+  ../include/../src/util/IllegalStateException.h \
+  ../include/../src/util/Exception.h \
+  ../include/../src/IndividualFactory.h ../include/../src/StopCriterion.h \
+  ../include/../src/Individual.h \
+  ../include/../src/StopCriterionMaxIteration.h \
+  ../include/../src/Population.h ../include/../src/TournamentSelection.h \
+  ../include/../src/RankingSelection.h ../include/../src/util/util.h \
+  ../include/../src/util/Variant.h ../include/../src/util/Random.h \
+  ../include/../src/util/Log.h \
+  ../include/../src/util/IllegalStateException.h \
+  ../include/../src/ga/ga.h ../include/../src/ga/IndividualFactory.h \
+  ../include/../src/ga/../IndividualFactory.h \
+  ../include/../src/ga/Individual.h ../include/../src/ga/../Individual.h \
+  ../include/../src/gp/gp.h ../include/../src/gp/IndividualFactory.h \
+  ../include/../src/gp/../IndividualFactory.h \
+  ../include/../src/gp/Individual.h ../include/../src/gp/../Individual.h \
+  ../include/../src/gp/Gene.h ../include/../src/gp/../util/Variant.h \
+  ../include/../src/gp/st/st.h \
+  ../include/../src/gp/st/IndividualFactory.h \
+  ../include/../src/gp/st/../IndividualFactory.h \
+  ../include/../src/gp/st/Individual.h \
+  ../include/../src/gp/st/../Individual.h ../include/../src/gp/st/Gene.h \
+  ../include/../src/gp/st/../Gene.h
+../obj/example/genetik.o: genetik.cpp GeneticAlgorithm.h \
+  GeneticProgramming.h StronglyTypedGeneticProgramming.h
+../obj/example/StronglyTypedGeneticProgramming.o:  \
+ StronglyTypedGeneticProgramming.cpp StronglyTypedGeneticProgramming.h \
+  ../include/libGenetiK.h ../include/../src/genetik.h \
+  ../include/../src/EvolutionaryAlgorithm.h \
+  ../include/../src/RouletteWheel.h ../include/../src/SelectionMethod.h \
+  ../include/../src/util/IllegalStateException.h \
+  ../include/../src/util/Exception.h \
+  ../include/../src/IndividualFactory.h ../include/../src/StopCriterion.h \
+  ../include/../src/Individual.h \
+  ../include/../src/StopCriterionMaxIteration.h \
+  ../include/../src/Population.h ../include/../src/TournamentSelection.h \
+  ../include/../src/RankingSelection.h ../include/../src/util/util.h \
+  ../include/../src/util/Variant.h ../include/../src/util/Random.h \
+  ../include/../src/util/Log.h \
+  ../include/../src/util/IllegalStateException.h \
+  ../include/../src/ga/ga.h ../include/../src/ga/IndividualFactory.h \
+  ../include/../src/ga/../IndividualFactory.h \
+  ../include/../src/ga/Individual.h ../include/../src/ga/../Individual.h \
+  ../include/../src/gp/gp.h ../include/../src/gp/IndividualFactory.h \
+  ../include/../src/gp/../IndividualFactory.h \
+  ../include/../src/gp/Individual.h ../include/../src/gp/../Individual.h \
+  ../include/../src/gp/Gene.h ../include/../src/gp/../util/Variant.h \
+  ../include/../src/gp/st/st.h \
+  ../include/../src/gp/st/IndividualFactory.h \
+  ../include/../src/gp/st/../IndividualFactory.h \
+  ../include/../src/gp/st/Individual.h \
+  ../include/../src/gp/st/../Individual.h ../include/../src/gp/st/Gene.h \
+  ../include/../src/gp/st/../Gene.h
