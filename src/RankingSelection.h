@@ -17,8 +17,8 @@
  * License along with this library; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
  * 
- * Alessandro Bahgat Shehata - skandar (AT) users (DOT) sourceforge (DOT) net
- * Daniele Castagna - dcastagna (AT) users (DOT) sourceforge (DOT) net
+ * Alessandro Bahgat Shehata - ale (DOT) bahgat (AT) gmail (DOT) com
+ * Daniele Castagna - daniele (DOT) castagna (AT) gmail (DOT) com
  * 
  */
 
